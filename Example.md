@@ -15,11 +15,6 @@ Basic *input* types are selected by on card jumpers and by selecting from the ke
 ***Programmable Power*** On alarm delay timer is provided to inhibit alarm operation for the duration of the delay time.
 All programmed values are ___stored permanently___ in non-volatile memory. Its __*intelligent*__ program lock facility **_prevents_** the set parameters from being tampered. 
 
-> POST <websiteUrl>/api/v1/ExternalAuthToken/RefreshToken/{identityProvider}
-
-{identityprovider} = PHONE/EMAIL/AZUREAD
-
-Body:
-{
-"RefreshToken":"<Token>"
-}
+> This is a sample
+>
+> This is also a sample
