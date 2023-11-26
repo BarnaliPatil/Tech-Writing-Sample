@@ -34,4 +34,6 @@ All programmed values are ___stored permanently___ in non-volatile memory. Its _
 * first item
 * second item
 * third item
-  
+
+- item1
+- item2
