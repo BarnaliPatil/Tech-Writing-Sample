@@ -30,3 +30,8 @@ All programmed values are ___stored permanently___ in non-volatile memory. Its _
 1. item
 1. item
 2. item
+
+* first item
+* second item
+* third item
+* 
