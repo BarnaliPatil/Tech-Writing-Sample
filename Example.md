@@ -49,3 +49,4 @@ All programmed values are ___stored permanently___ in non-volatile memory. Its _
 | title | description |
 | ----------------------------------- | --------------------------------------- |
 | item1 | description |
+| item1 | description |
