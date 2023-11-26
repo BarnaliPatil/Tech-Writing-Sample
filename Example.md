@@ -12,7 +12,8 @@ In **process** control application, sensors are used to measure physical variabl
 
 Basic *input* types are selected by on card jumpers and by selecting from the keyboard.Optional single or dual _alarm_ output is provided, alarm type and value are programmable from the front panel keyboard. Alarm condition on Sensor break, Over range or Under range is programmable individually for each alarm.
 
-***Programmable Power*** On alarm delay timer is provided to inhibit alarm operation for the duration of the delay time.
+***Programmable Power*** On alarm delay timer is provided to inhibit alarm operation for the duration of the delay time. [^1]
+[^1]:This is a foot
 All programmed values are ___stored permanently___ in non-volatile memory. Its __*intelligent*__ program lock facility **_prevents_** the set parameters from being tampered. 
 
 > This is a sample
@@ -27,7 +28,7 @@ All programmed values are ___stored permanently___ in non-volatile memory. Its _
 4. fourth
    1. nested
 
-1. item
+1. itemnote
 1. item
 2. item
 
