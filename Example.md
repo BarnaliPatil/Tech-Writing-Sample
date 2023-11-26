@@ -39,3 +39,5 @@ All programmed values are ___stored permanently___ in non-volatile memory. Its _
 - item2
   - item3
   - item4
+
+`code item`
