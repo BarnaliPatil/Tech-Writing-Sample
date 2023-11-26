@@ -45,3 +45,7 @@ All programmed values are ___stored permanently___ in non-volatile memory. Its _
 ![TI7750](https://github.com/BarnaliPatil/Tech-Writing-Sample/assets/152055230/c013a1d9-115b-4785-afbe-64e9ce9615ed)
 --------------------------------------------------------------------------------
 [click here](https://developers.google.com/workspace/explore?filter=&discoveryUrl=https%3A%2F%2Fdocs.googleapis.com%2F%24discovery%2Frest%3Fversion%3Dv1&discoveryRef=resources.documents)
+
+| title | description |
+| ----------------------------------- | --------------------------------------- |
+| item1 | description |
