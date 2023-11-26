@@ -60,3 +60,5 @@ All programmed values are ___stored permanently___ in non-volatile memory. Its _
 - [x] item1
 - [ ] item2
 - [ ] item3
+
+funny 😂
