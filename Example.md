@@ -41,3 +41,5 @@ All programmed values are ___stored permanently___ in non-volatile memory. Its _
   - item4
 
 `code item`
+![TI7750](https://github.com/BarnaliPatil/Tech-Writing-Sample/assets/152055230/c013a1d9-115b-4785-afbe-64e9ce9615ed)
+
