@@ -63,3 +63,4 @@ All programmed values are ___stored permanently___ in non-volatile memory. Its _
 
 funny 😂
 happy 📊
+~~We are working~~
